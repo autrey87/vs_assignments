@@ -1,0 +1,13 @@
+a.paper_name {
+    background-color: rgb(230, 238, 230);
+    display: block;
+    justify-content: left;
+    text-decoration: none;
+    color: rgb(105, 99, 99);
+}
+#paper_name:hover {
+    text-decoration: underline;
+}
+img.news_pic {
+    width: auto;
+}

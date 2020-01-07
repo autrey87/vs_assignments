@@ -1,0 +1,23 @@
+h1 {
+    text-emphasis: bold;
+    color:darkgreen
+}
+h1,h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p {
+    line-height:25px;
+    display: inline;
+}
+a {
+    text-decoration:none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.cia-img {
+    margin: 20px;
+    float: left;
+    width:200px
+}

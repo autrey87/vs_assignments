@@ -1,0 +1,32 @@
+.navbar {
+    display: block;
+    position: fixed;
+    background-color: dimgrey;
+    font-size: larger;
+    color: gainsboro;
+    height: 25px;
+    width: 100%;
+}
+.home {
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    color: gainsboro;
+    left: auto;
+}
+.about {
+    display: inline-block;
+    position: relative;
+    color: gainsboro;
+    left: auto;
+
+}
+.menu {
+    display: inline-block;
+    position: relative;
+    color: gainsboro;
+    left: auto;
+}
+.home.hover {
+    text-decoration: lightskyblue;
+}
