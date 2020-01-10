@@ -1,0 +1,13 @@
+body{
+    background-color: lightgrey;
+    text-align: center;
+}
+#djBox{
+    background-color: gray;
+    margin: 100px;
+    display: inline-block;
+}
+#djPic{
+    margin: 100px;
+    user-select: none;
+}
