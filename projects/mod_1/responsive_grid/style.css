@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    font-size: 0px;
+}
+.colorGrid {
+    display: inline-block;
+    border: 1px solid white;
+    height: 100px;
+}
+
+#lPink {
+    background-color: #F5C6D6;
+    display: block;
+}
+
+#dPink {
+    background-color: #EE2E84;
+    display: block;
+}
+
+#blue {
+    background-color: #85CFD8;
+    display: block;
+}
+
+#green {
+    background-color: #8DC63F;
+    display: block;
+}
+
+#orange {
+    background-color: #E76E34;
+    display: block;
+}
+
+@media only screen and (min-width: 768px){
+    #lPink {
+        display: inline-block;
+        width: 100%;
+    }
+
+    #dPink {
+        display: inline-block;
+        width: 25%;
+    }
+
+    #blue {
+        display: inline-block;
+        width: 50%;
+    }
+
+    #green {
+        display: inline-block;
+        width: 75%;
+    }
+
+    #orange {
+        display: inline-block;
+        width: 25%
+    }
+}

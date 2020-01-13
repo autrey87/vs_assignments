@@ -1,7 +1,7 @@
 var officeItems = ["stapler", "monitor", "computer", "desk", "lamp", "computer", "lamp", "stapler", "computer",  "computer"]
 var i = 1
 var count = 0
-for(i;i<=officeItems.length;i++){
+for(i; i <= officeItems.length; i++){
     if(officeItems[i]==="computer"){
         count++
     }

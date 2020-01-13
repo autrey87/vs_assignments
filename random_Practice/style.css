@@ -1,0 +1,10 @@
+.div{
+    display: block;
+    height: 300px;
+    width: 300px;
+    border: solid 10px black;
+    background-color:lightblue;
+}
+#button{
+    background-color: lightgreen;
+}
