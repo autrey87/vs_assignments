@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(115, 223, 7);
+}
+h1, h2{
+    display: block;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+a.hover{
+    font-size: 25px;
+    text-emphasis: bold;
+}
+#navBar{
+    display: flex;
+    padding: 5px;
+    background-color: khaki;
+    text-decoration: white;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+header{
+    padding: 5px;
+    justify-content: space-around;
+    align-items: center;
+    background-color: beige;
+}
+footer{
+    display: flex;
+    padding: 5px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: khaki;
+}

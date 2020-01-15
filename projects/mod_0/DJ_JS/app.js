@@ -19,27 +19,27 @@ function fGrey(){
 function fBlue(){
     djBox.style.backgroundColor="blue";
     body.style.backgroundColor="lightblue";
-    setTimeout(fGrey, 4000);
+    // setTimeout(fGrey, 4000);
 };
 function fRed(){
     djBox.style.backgroundColor="red";
     body.style.backgroundColor="lightcoral";
-    setTimeout(fGrey, 4000);
+    // setTimeout(fGrey, 4000);
 };
 function fYellow(){
     djBox.style.backgroundColor="yellow";
     body.style.backgroundColor="lightyellow";
-    setTimeout(fGrey, 4000);
+    // setTimeout(fGrey, 4000);
 };
 function fGreen(){
     djBox.style.backgroundColor="green";
     body.style.backgroundColor="lightgreen";
-    setTimeout(fGrey, 4000);
+    // setTimeout(fGrey, 4000);
 };
 function fOrange(){
     djBox.style.backgroundColor="orangered";
     body.style.backgroundColor="lightsalmon";
-    setTimeout(fGrey, 4000);
+    // setTimeout(fGrey, 4000);
 };
 
 document.addEventListener("keydown", kPress);
